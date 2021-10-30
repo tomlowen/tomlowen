@@ -10,3 +10,13 @@ I was working in scientific publishing in Production and Product roles until I r
 
 Please say hello! 🙂
 
+![Javascript](https://github.com/tomlowen/tomlowen/blob/main/javascript.png)
+![typescript](https://github.com/tomlowen/tomlowen/blob/main/typescript.png)
+![html5](https://github.com/tomlowen/tomlowen/blob/main/html5.png)
+![css3](https://github.com/tomlowen/tomlowen/blob/main/css3.png)
+![postgresql](https://github.com/tomlowen/tomlowen/blob/main/postgresql.png)
+![nodejs](https://github.com/tomlowen/tomlowen/blob/main/nodejs.png)
+![express](https://github.com/tomlowen/tomlowen/blob/main/express.png)
+![postman](https://github.com/tomlowen/tomlowen/blob/main/postman.png)
+![jest](https://github.com/tomlowen/tomlowen/blob/main/jest.png)
+![aws](https://github.com/tomlowen/tomlowen/blob/main/aws.png)
