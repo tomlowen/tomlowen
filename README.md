@@ -6,7 +6,7 @@
 
 I'm a full-stack software developer based in Birmingham.
 
-I was working in scientific publishing in Production and Product roles until I realised I was destined for a career in Tech. Having recently completed the School of Code Bootcamp, I'm now looking to realise my dream of becoming a full-time software developer. 
+I was working in scientific publishing in Production and Product roles until I realised I was destined for a career in Tech. Having recently completed the School of Code Bootcamp, I'm now working as a Junior Web Developer at Stickee. 
 
 Please say hello! 🙂
 
